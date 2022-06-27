@@ -1,7 +1,7 @@
 # Shoreline Assignment
 
 - Clone source code using command
-    `git clone  `
+    `git clone  https://github.com/Himanshu-j/shoreline.git`
 
 - Install the required dependencies
     1. To install Python version>=3.6, use official instructions for latest bundles here:

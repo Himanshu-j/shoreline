@@ -29,6 +29,3 @@
     1. To check logs of:
         `tail -f service_logs/debug.log`
 
-- NOTE: The
-    1. If set to `Azure` the behaviour of docker container will be of `Azure AD Sensor` type.
-    2. If set to `OneLogin` the behaviour of docker container will be of `OneLogin Sensor` type.
